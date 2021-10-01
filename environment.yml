@@ -356,11 +356,11 @@ dependencies:
     - idna==3.2
     - jinja2==3.0.1
     - jsonschema==4.0.1
-    - lccs==0.8.0
+    - git+https://github.com/brazil-data-cube/lccs.py@v0.8.0
     - lxml==4.6.3
     - markupsafe==2.0.1
     - pyrsistent==0.18.0
     - python-sld==1.0.10
     - requests==2.26.0
     - urllib3==1.26.7
-    - wlts==0.8.0
+    - git+https://github.com/brazil-data-cube/wlts.py@v0.8.0
