@@ -223,7 +223,7 @@ dependencies:
   - r-httr=1.4.2
   - r-ini=0.3.1
   - r-irdisplay=1.0
-  - r-irkernel=0.8.14
+  - r-irkernel=1.2
   - r-isoband=0.2.5
   - r-jquerylib=0.1.4
   - r-jsonlite=1.7.2
