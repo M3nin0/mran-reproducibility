@@ -1,7 +1,0 @@
-#!/bin/bash
-
-#
-# Installing the WLTS and WLCSS dependencies
-#
-pip3 install git+https://github.com/brazil-data-cube/lccs.py@v0.8.0 \
-  && pip3 install git+https://github.com/brazil-data-cube/wlts.py@v0.8.0
