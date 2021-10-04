@@ -1,0 +1,17 @@
+---
+output: github_document
+---
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+
+Title <- "MRAN Reproducibility"
+```
+
+# MRAN Reproducibility
+
+![binder-video](video/test_mran-repro.gif)
